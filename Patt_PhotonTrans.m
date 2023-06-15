@@ -3,6 +3,8 @@ function Phi = diff(t)
 
     c = (3*10^8)/1.3460;
     % PER MM-1
+
+    % Tailor as required (optical properties of media) 
    
 mu_s = 1.25;
     mu_a = 0.0950;
