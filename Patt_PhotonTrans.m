@@ -6,7 +6,7 @@ function Phi = diff(t)
 
     % Tailor as required (optical properties of media) 
    
-mu_s = 1.25;
+    mu_s = 1.25;
     mu_a = 0.0950;
     g = 0.9;
     d = 0.831;
